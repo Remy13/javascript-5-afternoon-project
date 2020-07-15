@@ -22,7 +22,7 @@ function outer() {
   Invoke outer saving the return value into another variable called 'inner'.
 */
   
-// Code Here
+var inner = 
 
 
 
